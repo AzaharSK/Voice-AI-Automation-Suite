@@ -1,5 +1,6 @@
 # Voice-AI-Automation-Suite (VAAS)
 - https://www.udemy.com/courses/search/?src=ukw&q=VAPI
+- https://www.udemy.com/user/alan-ai-2/?kw=ai+assistant&src=sac
 
 ## Turn Every Call Into Revenue with Voice AI
 
