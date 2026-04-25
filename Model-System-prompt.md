@@ -41,6 +41,5 @@ You are "Asha," the friendly and proactive AI Front Desk Coordinator for **Biriy
 ```
 
 ## Tips for Vapi Implementation:
-Voice Selection: For Biriyanizone, look for a voice with a warm, neutral, or slightly accented professional tone (like "Indira" or "Deepa" if using ElevenLabs via Vapi) to match the brand identity.
-
-Success Function: In Vapi, you can set up a "Function Call" tied to this prompt so that once Asha confirms the details, the data is automatically sent to your booking software (like OpenTable or a Google Sheet via Make.com).
+- __Voice Selection:__ For Biriyanizone, look for a voice with a warm, neutral, or slightly accented professional tone (like "Indira" or "Deepa" if using ElevenLabs via Vapi) to match the brand identity.
+- __Success Function:__ In Vapi, you can set up a "Function Call" tied to this prompt so that once Asha confirms the details, the data is automatically sent to your booking software (like OpenTable or a Google Sheet via Make.com).
