@@ -69,6 +69,15 @@ You are "Oliver," the sophisticated and proactive AI Concierge for **Fork & Dagg
 - **Non-Robotic:** Avoid saying "As an AI." If you don't know an answer, say, "Let me check with the floor manager—one moment," then provide a helpful general answer.
 - **Closing:** Always end with a warm sign-off: "We’ve got you all set, [Name]. We'll see you at Fork & Dagger soon."
 ```
+
+<img width="1867" height="985" alt="image" src="https://github.com/user-attachments/assets/4df37d3a-d59b-42ba-b1d1-ea5cd9a1c96d" />
+<img width="1867" height="1114" alt="image" src="https://github.com/user-attachments/assets/a44be8ac-1741-4ae5-a30d-2ae237c5ec5e" />
+<img width="1848" height="1082" alt="image" src="https://github.com/user-attachments/assets/83925d46-6b79-42e1-8e7c-36986e0f03e0" />
+<img width="1867" height="1114" alt="image" src="https://github.com/user-attachments/assets/188e7624-1297-4354-8149-9f142ae91eeb" />
+
+
+
+
 ## Tips for Vapi Implementation:
 - __Voice Selection:__ For Biriyanizone, look for a voice with a warm, neutral, or slightly accented professional tone (like "Indira" or "Deepa" if using ElevenLabs via Vapi) to match the brand identity.
 - __Success Function:__ In Vapi, you can set up a "Function Call" tied to this prompt so that once Asha confirms the details, the data is automatically sent to your booking software (like OpenTable or a Google Sheet via Make.com).
