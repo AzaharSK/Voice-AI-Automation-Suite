@@ -84,6 +84,11 @@ Businesses that adopt this now are not just improving efficiency, they are build
 <img width="1858" height="839" alt="image" src="https://github.com/user-attachments/assets/eadd1174-d666-4299-932d-c9cf507b9dcc" />
 <img width="1858" height="839" alt="image" src="https://github.com/user-attachments/assets/e394fe52-68ec-4056-a762-72d056442c18" />
 <img width="1858" height="839" alt="image" src="https://github.com/user-attachments/assets/233ef606-8b7f-419c-be33-a9cc5b0c6af7" />
+<img width="1858" height="1071" alt="image" src="https://github.com/user-attachments/assets/e316cf6c-ee94-43b2-bed2-5f5ae9c5abf2" />
+<img width="1792" height="863" alt="image" src="https://github.com/user-attachments/assets/c19d95ea-d0d2-414f-9e10-b68c38c7cae1" />
+
+<img width="1858" height="1071" alt="image" src="https://github.com/user-attachments/assets/560763f9-b7bc-4108-9873-06dd18225af2" />
+<img width="1743" height="296" alt="image" src="https://github.com/user-attachments/assets/e659480e-12ad-4ee5-bb96-d4c3c996af12" />
 
 
 
