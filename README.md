@@ -75,6 +75,18 @@ Voice AI is not just about saving money, it is about making more money with fewe
 Businesses that adopt this now are not just improving efficiency, they are building a system that continuously generates revenue, day and night.
 
 
+<img width="1858" height="839" alt="image" src="https://github.com/user-attachments/assets/2726fe4b-bbe1-4a6f-aeac-e7a8f082ebd6" />
+<img width="1858" height="839" alt="image" src="https://github.com/user-attachments/assets/eb78e3a9-007f-460e-8bff-ac988be5b068" />
+<img width="1858" height="839" alt="image" src="https://github.com/user-attachments/assets/2e70d66d-ff40-411a-8012-27d6628abfec" />
+<img width="1847" height="769" alt="image" src="https://github.com/user-attachments/assets/95c96860-8f5b-4186-98c2-f80bcc73d768" />
+<img width="1858" height="839" alt="image" src="https://github.com/user-attachments/assets/e8dae678-de96-4a4a-94af-1ad8b0e901c0" />
+<img width="1858" height="839" alt="image" src="https://github.com/user-attachments/assets/f951e0e4-3f34-4302-bd89-e9f0c5277e4e" />
+<img width="1858" height="839" alt="image" src="https://github.com/user-attachments/assets/eadd1174-d666-4299-932d-c9cf507b9dcc" />
+<img width="1858" height="839" alt="image" src="https://github.com/user-attachments/assets/e394fe52-68ec-4056-a762-72d056442c18" />
+<img width="1858" height="839" alt="image" src="https://github.com/user-attachments/assets/233ef606-8b7f-419c-be33-a9cc5b0c6af7" />
+
+
+
 <img width="1343" height="709" alt="image" src="https://github.com/user-attachments/assets/03841ed6-5f74-44e9-b82b-98cfa3e6fccf" />
 <img width="1552" height="937" alt="image" src="https://github.com/user-attachments/assets/848a945b-54e8-4519-aecf-01c3984f4b6e" />
 <img width="1858" height="839" alt="image" src="https://github.com/user-attachments/assets/894b0bb5-9548-4df7-96ae-c44153e35cb7" />
