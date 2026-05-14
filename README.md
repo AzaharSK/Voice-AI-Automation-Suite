@@ -61,12 +61,12 @@ While others struggle with staffing and inefficiencies, Voice AI-driven business
     Continue generating revenue even when your team is offline.
 
 
-Restaurants (reservation bots)
-Clinics (appointment booking)
-Real estate (lead qualification)
-E-commerce (order support)
-Travel (hotel booking assistants)
-Call centers replacement
+- Restaurants (reservation bots)
+- Clinics (appointment booking)
+- Real estate (lead qualification)
+- E-commerce (order support)
+- Travel (hotel booking assistants)
+- Call centers replacement
 
 **Bottom Line**
 
