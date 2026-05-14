@@ -76,6 +76,8 @@ Businesses that adopt this now are not just improving efficiency, they are build
 
 
 <img width="1343" height="709" alt="image" src="https://github.com/user-attachments/assets/03841ed6-5f74-44e9-b82b-98cfa3e6fccf" />
+<img width="1552" height="937" alt="image" src="https://github.com/user-attachments/assets/848a945b-54e8-4519-aecf-01c3984f4b6e" />
+
 
 
 The question is no longer whether to adopt Voice AI, but how quickly you can start benefiting from it.
