@@ -74,5 +74,9 @@ Voice AI is not just about saving money, it is about making more money with fewe
 
 Businesses that adopt this now are not just improving efficiency, they are building a system that continuously generates revenue, day and night.
 
+
+<img width="1343" height="709" alt="image" src="https://github.com/user-attachments/assets/03841ed6-5f74-44e9-b82b-98cfa3e6fccf" />
+
+
 The question is no longer whether to adopt Voice AI, but how quickly you can start benefiting from it.
 
